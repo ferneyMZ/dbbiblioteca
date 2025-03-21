@@ -1,5 +1,6 @@
 const {Prestamo}=require('../models');
 
+
 class PrestamoServices{
     static async listarPrestamo(){
         try{
